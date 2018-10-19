@@ -1,5 +1,5 @@
 #https://loot.farm/unstable.html
-import tkinter
+
 import requests
 
 
